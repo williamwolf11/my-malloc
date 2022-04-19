@@ -1,4 +1,4 @@
-my-malloc \n
+my-malloc\n
 by Will Wolf and Kevin Ewing
 
 Resources Consulted:
